@@ -12,7 +12,7 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/wavefronthq/wavefront-sdk-go v0.9.6
 	golang.org/x/net v0.0.0-20200225223329-5d076fcf07a8 // indirect
-	golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/genproto v0.0.0-20200225123651-fc8f55426688 // indirect
 	google.golang.org/grpc v1.27.1 // indirect
 )
